@@ -7,12 +7,12 @@
 - Open up the project
 - Install all the dependencies using
 
-````sh
+```sh
 yarn
-`
+```
 
 - Run the server using
 
 ```sh
 yarn dev
-````
+```
